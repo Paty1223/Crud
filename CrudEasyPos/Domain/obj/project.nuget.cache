@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6bD1FwrX3irkvRDo+vpOIg/r1u+PtskFLcClUsk8SeMY2gechObsR3eDByiKUEPjqLBIGcgdBNgCD6WrxgBGfg==",
+  "dgSpecHash": "GJsdwMoexIFMl+kypcnRYMQz0hBEQ20a3STFgYMvxFMDI6QQpOhv+Uah4hUXpb0XQHxbRCrgMZnT/CqOXEAp2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
