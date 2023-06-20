@@ -28,4 +28,9 @@ public sealed class Customer : AggregateRoot
     public PhoneNumber PhoneNumber { get; private set; } 
     public Address Address { get; private set; }
     public bool Active { get; set; }
+
+    public static implicit operator Customer(CustomerId v)
+    {
+        throw new NotImplementedException();
+    }
 } 
