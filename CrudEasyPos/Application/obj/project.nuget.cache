@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKyV4RwrzdI+ufsGU6S+GRV6QDJLxgRx0XS7xepICB/duxPrcSFkVe3oOh5p+7aJWYrGwbwLaZ/pAb6o0Ds9Ag==",
+  "dgSpecHash": "xOyC5s9qRjAMDA+eS9EO3vcEnxQI/Umvh6vmopI1B5jK3rCzWvdoACt1GFr69LCiVs/h3GeC55plby4bB9rmoQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

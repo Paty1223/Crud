@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJsdwMoexIFMl+kypcnRYMQz0hBEQ20a3STFgYMvxFMDI6QQpOhv+Uah4hUXpb0XQHxbRCrgMZnT/CqOXEAp2Q==",
+  "dgSpecHash": "TYJixvSx9j+WLOZwkpyGZ2ZMDNzECRTws0bJF0nN/CXvQEBRDbkCY0hXqlxKnjuGy6dowzFyoc1Rbc3rsAG2Ug==",
   "success": true,
-  "projectFilePath": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

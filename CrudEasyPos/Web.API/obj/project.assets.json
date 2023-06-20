@@ -1210,11 +1210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Web.API\\Web.API.csproj",
+      "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Web.API\\Web.API.csproj",
       "projectName": "Web.API",
-      "projectPath": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Web.API\\Web.API.csproj",
+      "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Web.API\\Web.API.csproj",
       "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Web.API\\obj\\",
+      "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1230,11 +1230,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Application\\Application.csproj": {
-              "projectPath": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Application\\Application.csproj"
+            "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Application\\Application.csproj"
             },
-            "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\HAHA\\Crud\\CrudEasyPos\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
