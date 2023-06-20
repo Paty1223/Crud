@@ -1,3 +1,4 @@
+using Domain.Customers;
 using Domain.Primitives;
 using Domain.ValueObjects;
 
@@ -17,7 +18,9 @@ public sealed class Customer : AggregateRoot
     }
 
     private Customer()
-    {}
+    {
+        
+    }
 
     
     public Customer Id { get; private set; }
@@ -28,6 +31,7 @@ public sealed class Customer : AggregateRoot
     public PhoneNumber PhoneNumber { get; private set; } 
     public Address Address { get; private set; }
     public bool Active { get; set; }
+    public object Value { get; set; }
 
     public static implicit operator Customer(CustomerId v)
     {
