@@ -1,3 +1,4 @@
+using Domain.Customer;
 using Domain.Customers;
 using Domain.ValueObjects;
 using Microsoft.EntityFrameworkCore;
@@ -9,7 +10,7 @@ public class CustomerConfiguration : IEntityTypeConfiguration<Customer>
 {
     public void Configure(EntityTypeBuilder<Customer> builder)
     {
-        builder.ToTable("Customers");
+        object value = builder.ToTable("Customers");
 
         builder.HasKey(c => c.Id);
 
