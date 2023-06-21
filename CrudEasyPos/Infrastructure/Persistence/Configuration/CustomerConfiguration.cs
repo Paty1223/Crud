@@ -10,7 +10,7 @@ public class CustomerConfiguration : IEntityTypeConfiguration<Customer>
 {
     public void Configure(EntityTypeBuilder<Customer> builder)
     {
-        object value = builder.ToTable("Customers");
+        object value = ("Customers");
 
         builder.HasKey(c => c.Id);
 
